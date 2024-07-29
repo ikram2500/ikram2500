@@ -1,6 +1,5 @@
 ### Hi there 👋
-Machine learning | Deep learning | NLP Engineer | 
-Find me in Twitter
+Generative AI expert | Deep learning | NLP Engineer 
 
 <!--
 **ikram2500/ikram2500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
